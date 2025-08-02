@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ericx/workspace/manim/media/videos/tetrahedronzoom(7)/1080p60/partial_movie_files/TetrahedronSlice/1534120374_1090625908_2434966644.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/tetrahedronzoom(7)/1080p60/partial_movie_files/TetrahedronSlice/3288987879_2500985192_760529014.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/tetrahedronzoom(7)/1080p60/partial_movie_files/TetrahedronSlice/3281948374_2500985192_4049970659.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/tetrahedronzoom(7)/1080p60/partial_movie_files/TetrahedronSlice/972927394_3211510847_1546660477.mp4'

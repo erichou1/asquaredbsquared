@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ericx/workspace/manim/media/videos/pp/1080p60/partial_movie_files/TetrahedronTriangle/2766612045_2302372098_3538518555.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/pp/1080p60/partial_movie_files/TetrahedronTriangle/1669582400_3438219438_2125202066.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/pp/1080p60/partial_movie_files/TetrahedronTriangle/1669582400_4099800102_2071901335.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/pp/1080p60/partial_movie_files/TetrahedronTriangle/1669582400_3438219438_3706700692.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/pp/1080p60/partial_movie_files/TetrahedronTriangle/1669582400_4230491077_322856096.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/pp/1080p60/partial_movie_files/TetrahedronTriangle/1669582400_3438219438_2655585247.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/pp/1080p60/partial_movie_files/TetrahedronTriangle/1669582400_2883460196_3507631315.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/pp/1080p60/partial_movie_files/TetrahedronTriangle/1669582400_3494816192_1533979200.mp4'

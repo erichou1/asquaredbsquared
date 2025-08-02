@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ericx/workspace/manim/media/videos/trianglecreature/1080p60/partial_movie_files/SpeechBubbleAnimation/3977891868_182246000_223132457.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/trianglecreature/1080p60/partial_movie_files/SpeechBubbleAnimation/2852726489_2715524365_2382625675.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/trianglecreature/1080p60/partial_movie_files/SpeechBubbleAnimation/2852726489_1141282389_1719146933.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/trianglecreature/1080p60/partial_movie_files/SpeechBubbleAnimation/2852726489_1154339396_2086524829.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/trianglecreature/1080p60/partial_movie_files/SpeechBubbleAnimation/2852726489_3890345977_1071484169.mp4'

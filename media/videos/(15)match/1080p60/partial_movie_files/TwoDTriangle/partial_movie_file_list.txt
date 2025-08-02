@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ericx/workspace/manim/media/videos/(15)match/1080p60/partial_movie_files/TwoDTriangle/460724736_3629008243_1956733072.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/(15)match/1080p60/partial_movie_files/TwoDTriangle/2965786714_4042641242_477811041.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/(15)match/1080p60/partial_movie_files/TwoDTriangle/417551332_1764742950_3533422518.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/(15)match/1080p60/partial_movie_files/TwoDTriangle/1471235921_1310907494_27242243.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/(15)match/1080p60/partial_movie_files/TwoDTriangle/1471235921_2570853899_842717630.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/(15)match/1080p60/partial_movie_files/TwoDTriangle/1471235921_3879448041_2896884290.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/(15)match/1080p60/partial_movie_files/TwoDTriangle/1471235921_3918398193_222382989.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/(15)match/1080p60/partial_movie_files/TwoDTriangle/1471235921_1165985053_4030917924.mp4'

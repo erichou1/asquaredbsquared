@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ericx/workspace/manim/media/videos/triangle2/1080p60/partial_movie_files/Triangle2/3363112549_2465089024_729892282.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/triangle2/1080p60/partial_movie_files/Triangle2/1010618973_2304249630_1556626037.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/triangle2/1080p60/partial_movie_files/Triangle2/569480238_2500985192_372873843.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/triangle2/1080p60/partial_movie_files/Triangle2/569480238_2500985192_1628574563.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/triangle2/1080p60/partial_movie_files/Triangle2/569480238_2500985192_83655595.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/triangle2/1080p60/partial_movie_files/Triangle2/569480238_210333035_4039340177.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/triangle2/1080p60/partial_movie_files/Triangle2/661944254_2500985192_2337715700.mp4'

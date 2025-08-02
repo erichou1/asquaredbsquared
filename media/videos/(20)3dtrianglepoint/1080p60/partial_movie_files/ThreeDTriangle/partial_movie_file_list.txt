@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ericx/workspace/manim/media/videos/(20)3dtrianglepoint/1080p60/partial_movie_files/ThreeDTriangle/3319828748_1469862785_2000205173.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/(20)3dtrianglepoint/1080p60/partial_movie_files/ThreeDTriangle/2373118601_2494043328_380323922.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/(20)3dtrianglepoint/1080p60/partial_movie_files/ThreeDTriangle/1434258801_2500985192_1460753243.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/(20)3dtrianglepoint/1080p60/partial_movie_files/ThreeDTriangle/4161938774_2290455086_849831637.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/(20)3dtrianglepoint/1080p60/partial_movie_files/ThreeDTriangle/3501910014_3510698219_2016435795.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/(20)3dtrianglepoint/1080p60/partial_movie_files/ThreeDTriangle/655281590_3380109525_3581819935.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/(20)3dtrianglepoint/1080p60/partial_movie_files/ThreeDTriangle/655281590_4108017035_1436411998.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/(20)3dtrianglepoint/1080p60/partial_movie_files/ThreeDTriangle/655281590_3391626618_3423934630.mp4'

@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ericx/workspace/manim/media/videos/coordinateplane(13)/1080p60/partial_movie_files/TwoDTriangle/3977891868_1933954873_518319116.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/coordinateplane(13)/1080p60/partial_movie_files/TwoDTriangle/2852726489_2862073587_3015054643.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/coordinateplane(13)/1080p60/partial_movie_files/TwoDTriangle/2852726489_441597164_554568624.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/coordinateplane(13)/1080p60/partial_movie_files/TwoDTriangle/2852726489_1704852926_3213687620.mp4'

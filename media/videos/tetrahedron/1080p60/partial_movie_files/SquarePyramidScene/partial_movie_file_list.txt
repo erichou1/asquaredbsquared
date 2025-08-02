@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ericx/workspace/manim/media/videos/tetrahedron/1080p60/partial_movie_files/SquarePyramidScene/1156666106_699495906_223132457.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/tetrahedron/1080p60/partial_movie_files/SquarePyramidScene/1194337732_2304249630_3536382590.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/tetrahedron/1080p60/partial_movie_files/SquarePyramidScene/1194337732_3574521508_299602497.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/tetrahedron/1080p60/partial_movie_files/SquarePyramidScene/1194337732_3038557746_942558481.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/tetrahedron/1080p60/partial_movie_files/SquarePyramidScene/1194337732_2831135421_2450321847.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/tetrahedron/1080p60/partial_movie_files/SquarePyramidScene/2029936430_2344723567_3631445060.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/tetrahedron/1080p60/partial_movie_files/SquarePyramidScene/2576719522_647632242_2804592863.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/tetrahedron/1080p60/partial_movie_files/SquarePyramidScene/992551772_4242036272_2468372870.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/tetrahedron/1080p60/partial_movie_files/SquarePyramidScene/2335929975_1620812486_2547902092.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/tetrahedron/1080p60/partial_movie_files/SquarePyramidScene/2335929975_3038557746_3521819011.mp4'

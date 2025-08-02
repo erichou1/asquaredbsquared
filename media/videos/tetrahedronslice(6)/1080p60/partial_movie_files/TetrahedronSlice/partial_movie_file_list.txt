@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ericx/workspace/manim/media/videos/tetrahedronslice(6)/1080p60/partial_movie_files/TetrahedronSlice/1534120374_1090625908_2434966644.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/tetrahedronslice(6)/1080p60/partial_movie_files/TetrahedronSlice/2261084289_2500985192_760529014.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/tetrahedronslice(6)/1080p60/partial_movie_files/TetrahedronSlice/2979318831_3151222207_3221252247.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/tetrahedronslice(6)/1080p60/partial_movie_files/TetrahedronSlice/1537603408_2500985192_2192316944.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/tetrahedronslice(6)/1080p60/partial_movie_files/TetrahedronSlice/1537603408_2358135789_131400903.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/tetrahedronslice(6)/1080p60/partial_movie_files/TetrahedronSlice/1537603408_2500985192_1992878866.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/tetrahedronslice(6)/1080p60/partial_movie_files/TetrahedronSlice/2214787754_390449737_1694362960.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/tetrahedronslice(6)/1080p60/partial_movie_files/TetrahedronSlice/3010885189_3825599861_3126233295.mp4'
+file 'file:C:/Users/ericx/workspace/manim/media/videos/tetrahedronslice(6)/1080p60/partial_movie_files/TetrahedronSlice/1676314943_2500985192_468742946.mp4'
