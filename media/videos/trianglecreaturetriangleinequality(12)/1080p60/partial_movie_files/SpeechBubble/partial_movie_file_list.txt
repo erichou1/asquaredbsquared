@@ -1,5 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/ericx/workspace/manim/media/videos/trianglecreaturetriangleinequality(12)/1080p60/partial_movie_files/SpeechBubble/3977891868_548146348_223132457.mp4'
-file 'file:C:/Users/ericx/workspace/manim/media/videos/trianglecreaturetriangleinequality(12)/1080p60/partial_movie_files/SpeechBubble/2852726489_3263292570_3233014580.mp4'
-file 'file:C:/Users/ericx/workspace/manim/media/videos/trianglecreaturetriangleinequality(12)/1080p60/partial_movie_files/SpeechBubble/2852726489_1160711414_1412841409.mp4'
-file 'file:C:/Users/ericx/workspace/manim/media/videos/trianglecreaturetriangleinequality(12)/1080p60/partial_movie_files/SpeechBubble/2852726489_3890345977_631829896.mp4'

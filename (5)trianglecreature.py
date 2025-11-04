@@ -13,7 +13,7 @@ class SpeechBubble(Scene):
         bubble.to_corner(DOWN + RIGHT)
 
         # Create the text inside the bubble
-        text = Tex(r"Lets Simplify!", font_size=40)
+        text = Tex(r"Surely Not...", font_size=60)
         text.set_color(WHITE)
         print(f"{bubble.get_center()}")
 

@@ -1,6 +1,5 @@
 from manim import *
 from typing import TYPE_CHECKING, Callable, Iterable, Sequence
-from dots2 import DrawPolyhedron, Dot
 import math
 class Triangle2(ThreeDScene):
     def construct(self):
@@ -234,3 +233,4 @@ class Triangle2(ThreeDScene):
 
         # Attach the updater to the line
         line.add_updater(update_line)
+

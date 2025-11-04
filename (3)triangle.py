@@ -1,6 +1,5 @@
 from manim import *
 from typing import TYPE_CHECKING, Callable, Iterable, Sequence
-from dots2 import DrawPolyhedron, Dot
 import math
 class Triangle(ThreeDScene):
     def construct(self):

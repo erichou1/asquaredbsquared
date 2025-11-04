@@ -200,14 +200,14 @@ class ThreeDTriangle(ThreeDScene):
         moving_dot1.set_fill(color=RED, opacity=0.1)
         moving_dot2.set_fill(color=RED, opacity=0.1)
         extended_perp_line_C.set_stroke(opacity=0.1)
-        tick1.set_stroke(opacity=0.1)
-        tick1_C.set_stroke(opacity=0.1)
-        tick2.set_stroke(opacity=0.1)
-        tick2_C.set_stroke(opacity=0.1)
-        bn_ticks.set_stroke(opacity=0.1)
-        cm_ticks.set_stroke(opacity=0.1)
-        dn_ticks.set_stroke(opacity=0.1)
-        em_ticks.set_stroke(opacity=0.1)
+        tick1.set_stroke(opacity=0),
+        tick1_C.set_stroke(opacity=0),
+        tick2.set_stroke(opacity=0),
+        tick2_C.set_stroke(opacity=0),
+        bn_ticks.set_stroke(opacity=0),
+        cm_ticks.set_stroke(opacity=0),
+        dn_ticks.set_stroke(opacity=0),
+        em_ticks.set_stroke(opacity=0),
         traced_CM.set_stroke(opacity=0.1)
         right_angle.set_stroke(opacity=0.1)
         right_angle_C.set_stroke(opacity=0.1)

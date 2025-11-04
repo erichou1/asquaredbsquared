@@ -1,9 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/ericx/workspace/manim/media/videos/(15)triangledef/1080p60/partial_movie_files/DynamicTriangle/3977891868_180598401_223132457.mp4'
-file 'file:C:/Users/ericx/workspace/manim/media/videos/(15)triangledef/1080p60/partial_movie_files/DynamicTriangle/2852726489_3890345977_1392007924.mp4'
-file 'file:C:/Users/ericx/workspace/manim/media/videos/(15)triangledef/1080p60/partial_movie_files/DynamicTriangle/2852726489_4176426369_830096810.mp4'
-file 'file:C:/Users/ericx/workspace/manim/media/videos/(15)triangledef/1080p60/partial_movie_files/DynamicTriangle/2852726489_1141282389_715193315.mp4'
-file 'file:C:/Users/ericx/workspace/manim/media/videos/(15)triangledef/1080p60/partial_movie_files/DynamicTriangle/2852726489_4178272120_3020541168.mp4'
-file 'file:C:/Users/ericx/workspace/manim/media/videos/(15)triangledef/1080p60/partial_movie_files/DynamicTriangle/2852726489_1704852926_895446751.mp4'
-file 'file:C:/Users/ericx/workspace/manim/media/videos/(15)triangledef/1080p60/partial_movie_files/DynamicTriangle/2852726489_1329924768_2340305897.mp4'
-file 'file:C:/Users/ericx/workspace/manim/media/videos/(15)triangledef/1080p60/partial_movie_files/DynamicTriangle/2852726489_1141282389_467143432.mp4'

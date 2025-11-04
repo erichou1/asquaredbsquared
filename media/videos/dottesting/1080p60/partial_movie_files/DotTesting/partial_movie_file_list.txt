@@ -1,9 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/ericx/workspace/manim/media/videos/dottesting/1080p60/partial_movie_files/DotTesting/3363112549_2465089024_433454568.mp4'
-file 'file:C:/Users/ericx/workspace/manim/media/videos/dottesting/1080p60/partial_movie_files/DotTesting/3227522889_3571752547_2146856888.mp4'
-file 'file:C:/Users/ericx/workspace/manim/media/videos/dottesting/1080p60/partial_movie_files/DotTesting/3227522889_5340459_1959339247.mp4'
-file 'file:C:/Users/ericx/workspace/manim/media/videos/dottesting/1080p60/partial_movie_files/DotTesting/262626429_3530756782_1364548003.mp4'
-file 'file:C:/Users/ericx/workspace/manim/media/videos/dottesting/1080p60/partial_movie_files/DotTesting/2487112188_4268215521_3821454855.mp4'
-file 'file:C:/Users/ericx/workspace/manim/media/videos/dottesting/1080p60/partial_movie_files/DotTesting/682636898_144225427_1318646105.mp4'
-file 'file:C:/Users/ericx/workspace/manim/media/videos/dottesting/1080p60/partial_movie_files/DotTesting/1519718143_1377689631_621047724.mp4'
-file 'file:C:/Users/ericx/workspace/manim/media/videos/dottesting/1080p60/partial_movie_files/DotTesting/813205553_3438219438_3265456263.mp4'

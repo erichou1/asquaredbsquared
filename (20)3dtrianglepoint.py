@@ -226,14 +226,14 @@ class ThreeDTriangle(ThreeDScene):
         moving_dot1.set_fill(color=RED, opacity=0.1)
         moving_dot2.set_fill(color=RED, opacity=0.1)
         extended_perp_line_C.set_stroke(opacity=0.1)
-        tick1.set_stroke(opacity=0.1)
-        tick1_C.set_stroke(opacity=0.1)
-        tick2.set_stroke(opacity=0.1)
-        tick2_C.set_stroke(opacity=0.1)
-        bn_ticks.set_stroke(opacity=0.1)
-        cm_ticks.set_stroke(opacity=0.1)
-        dn_ticks.set_stroke(opacity=0.1)
-        em_ticks.set_stroke(opacity=0.1)
+        tick1.set_stroke(opacity=0),
+        tick1_C.set_stroke(opacity=0),
+        tick2.set_stroke(opacity=0),
+        tick2_C.set_stroke(opacity=0),
+        bn_ticks.set_stroke(opacity=0),
+        cm_ticks.set_stroke(opacity=0),
+        dn_ticks.set_stroke(opacity=0),
+        em_ticks.set_stroke(opacity=0),
         traced_CM.set_stroke(opacity=0.1)
         right_angle.set_stroke(opacity=0.1)
         right_angle_C.set_stroke(opacity=0.1)
@@ -375,7 +375,7 @@ class ThreeDTriangle(ThreeDScene):
         highlight_dot = target_clone[1].copy().set_opacity(1)
         highlight_dot.set_color("#FFD700")
         highlight_dot.z_index = 999  # Highest priority
-
+        print(f"{highlight_dot.get_center()}")
         # Optional: ensure it's in front visually
         self.bring_to_front(highlight_dot)  # Extra layer of safety
         self.play(
@@ -416,6 +416,7 @@ class ThreeDTriangle(ThreeDScene):
             point_e2.animate.set_fill(opacity=0.05).set_stroke(opacity=0.05),
             label_d2.animate.set_fill(opacity=0.05).set_stroke(opacity=0.05),
             label_e2.animate.set_fill(opacity=0.05).set_stroke(opacity=0.05),
+            labels[0].animate.move_to([-4.68633652, -3.85979185,  0.]),
             *fade_anims,
         )
         M_pos = moving_dot1.get_center()
@@ -440,18 +441,26 @@ class ThreeDTriangle(ThreeDScene):
             Create(line_FM),
             run_time=2
         )
+        self.wait()
         # CM line
         line_CM = Line(v3, M_pos, color=ORANGE, stroke_width=8)
 
         # Orange trace from F to M
-        trace_FM = Line(F_pos, M_pos, color=ORANGE, stroke_width=11)
+        trace_FM = Line(F_pos, M_pos, color=ORANGE, stroke_width=10)
         trace_FM.set_stroke(opacity=1.0)
-
+        trace_MN = Line(M_pos, N_pos, color=YELLOW, stroke_width=10)
         self.add(line_CM)
-
+        self.play(
+            Create(trace_MN),
+            FadeOut(line_MN),
+            
+            run_time=1.5
+        )
         self.play(
             Create(line_CM),
-            Create(trace_FM),  # Or ShowPassingFlash(trace_FM.copy())
+            Create(trace_FM), 
+            FadeOut(line_FM),
+
             run_time=1.5
         )
         # BN line
@@ -466,6 +475,22 @@ class ThreeDTriangle(ThreeDScene):
         self.play(
             Create(line_BN),
             Create(trace_FN),
+            FadeOut(line_NF),
             run_time=1.5
         )
+        fade_anims2 = []
 
+        for group in bd_outlines + ce_outlines:
+            for mob in group:
+                fade_anims2.append(mob.animate.set_opacity(0))
+        self.play(
+            ce_group.animate.set_fill(opacity=0.).set_stroke(opacity=0),
+            bd_group.animate.set_fill(opacity=0).set_stroke(opacity=0),
+            bdgroup2.animate.set_fill(opacity=0).set_stroke(opacity=0),
+            point_d2.animate.set_fill(opacity=0).set_stroke(opacity=0),
+            point_e2.animate.set_fill(opacity=0).set_stroke(opacity=0),
+            label_d2.animate.set_fill(opacity=0).set_stroke(opacity=0),
+            label_e2.animate.set_fill(opacity=0).set_stroke(opacity=0),
+            *fade_anims2,
+            run_time= 1
+        )
